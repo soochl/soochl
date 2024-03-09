@@ -1,6 +1,6 @@
 ### Hello, World! 👋
-My name is Sooyeon Choi and I'm a graduate at Columbia University, passionate in human cognition and data analysis.
-
+My name is Sooyeon Choi and I'm a graduate at Columbia University, passionate in human cognition and data analysis. 
+Apart from academics, I enjoy taking photos 📸.
 <!--
 **soochl/soochl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
