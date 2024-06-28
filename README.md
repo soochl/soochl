@@ -1,7 +1,7 @@
 ### Hello, World! 👋
-My name is Sooyeon Choi a future researcher, passionate in human cognition and data analysis.
-I hold both undergraduate and graduate degrees from Columbia University, majoring in psychology and quantitative methods in social sciences, respectively. 
-Apart from academics, I enjoy traveling and taking photos 📸 🗺.
+- My name is Sooyeon Choi a future researcher, passionate in human cognition, social influence, and data analysis.
+- I hold both undergraduate and graduate degrees from Columbia University, majoring in psychology and quantitative methods in social sciences, respectively. 
+- Apart from academics, I enjoy traveling and taking photos 📸 🗺.
 <!--
 **soochl/soochl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
